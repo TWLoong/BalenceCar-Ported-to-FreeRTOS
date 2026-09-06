@@ -6,6 +6,13 @@ STM32两轮平衡小车，裸机工程移植到FreeRTOS
 
 江协科技平衡车资料获取网站：https://jiangxiekeji.com/index.html
 
+## 软件平台
+1.Keil 5
+
+2.标准库
+
+3.FreeRTOS
+
 ## 硬件平台
 1.主控芯片：STM32F103
 
