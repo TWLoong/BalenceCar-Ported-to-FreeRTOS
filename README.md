@@ -27,7 +27,7 @@ STM32两轮平衡小车，裸机工程移植到FreeRTOS
 ## 待优化
 1.移植FreeRtos后小车平衡效果不如裸机版本
 
-2.蓝牙以及无线对小车的控制延迟较大
+2.蓝牙前进后退快速控制效果不佳，慢速尚可，无线遥控对小车的控制延迟较大
 
 <img width="1280" height="961" alt="0c1814e9bf1f8b4d42c7478becdf80a6_720" src="https://github.com/user-attachments/assets/19db1770-5b54-46ae-8c5a-2eb73544fbea" />
 
