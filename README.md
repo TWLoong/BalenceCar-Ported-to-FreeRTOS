@@ -29,4 +29,5 @@ STM32两轮平衡小车，裸机工程移植到FreeRTOS
 
 2.蓝牙以及无线对小车的控制延迟较大
 
-<img width="1280" height="961" alt="0c1814e9bf1f8b4d42c7478becdf80a6_720" src="https://github.com/user-attachments/assets/f89772bd-b4f3-458d-8b4c-d07b41bd070b" />
+<img width="1280" height="961" alt="0c1814e9bf1f8b4d42c7478becdf80a6_720" src="https://github.com/user-attachments/assets/19db1770-5b54-46ae-8c5a-2eb73544fbea" />
+
